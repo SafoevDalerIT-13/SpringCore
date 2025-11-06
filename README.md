@@ -1,1 +1,1 @@
-# SpringCore
+# SpringCore базовые аннотации
